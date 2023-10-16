@@ -1,0 +1,36 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #0970be;
+    padding: 30px;
+    margin: 10;
+}
+
+.pokemon-card img {
+    max-width: 300%;
+}
+
+.pokemon-card h2 {
+    margin-top: 10px;
+}
+
+.pokemon-detail-container {
+    margin-top: 25px;
+}
+
+.pokemon-list-item {
+    background-color: #ffd900;
+    padding: 10px;
+    width: 330px;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.pokemon-card {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: #00a2ff;
+}
